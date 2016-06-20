@@ -109,8 +109,8 @@ public class VideoPlayback extends Activity implements
     static final int UPDATE_ERROR_NO_NETWORK_CONNECTION = -3;
     static final int UPDATE_ERROR_SERVICE_NOT_AVAILABLE = -4;
     private boolean mExtendedTracking = false;
-    private static final String kAccessKey = "b749a636046bd86315e116c04aad336f8c02c406";
-    private static final String kSecretKey = "62cb3fea662c9b14a5e80e9aa569c7b8dd216482";
+    private static final String kAccessKey = "INSERT ACCESS KEY HERE";
+    private static final String kSecretKey = "INSERT SECRET KEY HERE";
     private int mInitErrorCode = 0;
 
     // Called when the activity first starts or the user navigates back
