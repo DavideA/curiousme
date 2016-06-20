@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RadioButton xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:button="@null"
+    android:drawableRight="@android:drawable/btn_radio"
+    />
+<!-- From: file:/C:/Users/Utente/Documents/AndroidStudioProjects/CuriousMe/app/src/main/res/layout/sample_app_menu_group_radio_button.xml -->

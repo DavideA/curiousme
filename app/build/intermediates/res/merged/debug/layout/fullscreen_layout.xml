@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android">
+    <VideoView android:id="@+id/surface_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="center">
+    </VideoView>
+</merge><!-- From: file:/C:/Users/Utente/Documents/AndroidStudioProjects/CuriousMe/app/src/main/res/layout/fullscreen_layout.xml -->
