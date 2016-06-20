@@ -25,7 +25,7 @@ Unfortunately, the web application is not available yet :(... but we're working 
 Anyway, you can still try the mobile application by manually uploading data in the Vuforia Cloud. Here's how it works:
 * Create a Vuforia developer account [here](https://developer.vuforia.com/license-manager).
 * In your Target Manager, create a cloud database and load your first target image, also providing a text file as metadata, containing the HLS url of the stream you want to couple;
-* Checkout this repository in a local folder, and open it with (Android Studio)[https://developer.android.com/studio/index.html] (integration with different IDEs is possible, but definitely NOT recommended);
+* Checkout this repository in a local folder, and open it with [Android Studio](https://developer.android.com/studio/index.html) (integration with different IDEs is possible, but definitely NOT recommended);
 * In your Vuforia Developer Portal, find out your client access keys for your database, and put them in app/src/main/java/com/mumet/abatidoda/curiousme/VideoPlayback/app/VideoPlayback/VideoPlayback.java, lines 112-113:
 ```java
 private static final String kAccessKey = "INSERT ACCESS KEY HERE";
