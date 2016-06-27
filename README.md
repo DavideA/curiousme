@@ -5,7 +5,7 @@ CuriousMe is an augmented reality application developed by [Xhensila Doda](https
 * an Android application, that can recognize such target images once acquired by the device camera, and play the corresponding video in overlap.
 Actually, this also relies on the [Vuforia SDK](https://developer.vuforia.com/downloads/sdk) and [Vuforia Web Services](https://developer.vuforia.com/library/articles/Solution/How-To-Use-the-Vuforia-Web-Services-API) to work, but everything will be clear in a minute!
 
-By now, you can watch a fancy video of CuriousMe.
+By now, you can watch a [fancy video](https://youtu.be/MCw3VsJvnrk) of CuriousMe.
 ### How does it work?
 The whole architecture is explained by this image:
 ![curiousme-architecture](http://www.davideabati.com/resources/curiousmearchitecture.png "CuriousMe architecture")
